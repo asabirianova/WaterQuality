@@ -35,8 +35,8 @@ After finding that certain Brooklyn zipcodes have longer resoluation times than 
 
 ## *Conclusion*
 
-•	The number of water quality complaints has been on the rise since 2010, however, this could be attributed to NYC population growth or the awareness of global environmental concerns.<br/> 
-•	It would appear from findings, that there is a high resolution rate in terms of the amount of complaints that are closed amongst the DEP’s water quality ccomplaints, which is a sign of efficiency. Though some zipcodes have a higher number of unresolved complaints than others, the number of these is statistically insignificant compared to those that are closed.<br/>
+•	The number of water quality complaints has been on the rise since 2010, however, this could be attributed to NYC population growth or the awareness of global environmental concerns.<br/> <br/>
+•	It would appear from findings, that there is a high resolution rate in terms of the amount of complaints that are closed amongst the DEP’s water quality ccomplaints, which is a sign of efficiency. Though some zipcodes have a higher number of unresolved complaints than others, the number of these is statistically insignificant compared to those that are closed.<br/><br/>
 •	It looks like the resolution time for all complaints has been increasing in the last couple of years. Looking further into DEP funding and how many workers are currently allocated to handle complaints would give us a better idea into the possible misuse taking place. Furthermore, some zipcodes have a notably higher average resolution times than others, despite complaint volume and complaint types. This should be investigated further.
 
 Further analysis could include supplementing the data with zipcode population to see the ratio in the number of complaints per zipcode to its population. Are there any zipcodes where the population is small compared to how many complaints are placed? This could also point to agency problem areas. Examing the income and census date for each zipcode could point to possible biases in terms of DEP's response rate per neighborhood. 
